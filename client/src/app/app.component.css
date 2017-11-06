@@ -1,0 +1,22 @@
+app-root {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+app-sidebar {
+  display: table-cell;
+  width: 276px;
+  min-width: 276px;
+  height: auto;
+  vertical-align: top;
+  order: 0;
+  overflow: hidden;
+  border-right: 1px solid #e4e4e4;
+}
+
+app-content {
+  border-left: 1px;
+  display: table-cell;
+  vertical-align: top;
+}

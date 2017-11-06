@@ -1,0 +1,23 @@
+.TextHeading3 {
+  font-family: Segoe UI Bold, Segoe UI, Arial, Helvetica, Tahoma, Verdana, SansSerif;
+  font-size: 14px;
+  line-height: 18px;
+  color: #577DA0;
+  margin: 0;
+}
+
+.TextData {
+  font-family: Segoe UI, Arial, Helvetica, Tahoma, Verdana, SansSerif;
+  font-size: 14px;
+  line-height: 18px;
+  color: #646464;
+  white-space: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.detail {
+  padding: 5px;
+  border-bottom: 1px solid #e4e4e4;
+  height: 50px;
+}
