@@ -13,7 +13,7 @@ import {SidebarComponent} from './sidebar/sidebar.component';
 export class AppComponent {
   selectedLabDetail: LabDetailsDto;
 
-  onDetailPicked(/*pickedDetail: LabDetailsDto*/) {
+  onDetailPicked(pickedDetail: LabDetailsDto) {
     console.log('HURRRAAAA');
     console.log('START');
     // this.selectedLabDetail = pickedDetail;
